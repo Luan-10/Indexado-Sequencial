@@ -1,0 +1,7 @@
+
+# Arquivos de dados binários
+*.bin
+
+# Arquivos de índice binários
+indice_produtos.bin
+indice_acessos.bin
